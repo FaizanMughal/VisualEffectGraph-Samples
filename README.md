@@ -6,6 +6,12 @@ There are also pre-built binaries for Windows and/or macOS available.
 
 ### Changelog
 
+- #### 2019.4 Release 1 : (7.5.2 rev1 2020-12-15)
+
+  - **Updated HD Render Pipeline / Visual Effect Graph to 7.5.2**
+  - **Notable Changes : **
+    - Rebuilt all Visual Effects
+  
 - #### 2019.3 Release 2 : (7.2.1 rev1 2020-03-10)
 
   - **Updated HD Render Pipeline / Visual Effect Graph to 7.2.1**
